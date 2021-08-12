@@ -12,6 +12,12 @@ body {
     min-height: 100vh;
 }
 
+#tippity-top-flippity-flop {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 header {
     background-image: url("./assets/copy25x.png");
     display: flex;
@@ -20,6 +26,7 @@ header {
     /* overflow: hidden; */
     height: 150px;
     width: 100vw;
+    margin-bottom: 50px;
 }
 
 #background-img {
