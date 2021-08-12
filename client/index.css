@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+header {
+    background-image: url("/assets/copy25x.png");
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 150px;
+}
+
+#header-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    color: antiquewhite;
+
+    padding: 10px;
+
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#disclaimer {
+    font-family: sans-serif;
+    font-size: 6px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+
+
+
+
